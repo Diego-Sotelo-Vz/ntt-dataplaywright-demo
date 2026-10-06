@@ -26,4 +26,4 @@ Finalmente, ejecuté el comando **`npm run test-dev`**, el cual indicó que se u
 
 ## Evidencia de Ejecución
 ![Reporte HTML de Playwright](evidencias/index.png )
-![Segundo Reporte de Playwright](evidencias/captura 2.png)
+![Segundo Reporte de Playwright](evidencias/captura%202.png)
